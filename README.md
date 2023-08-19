@@ -1,12 +1,12 @@
 ### The Sevaa Animal Shelter
 
 # Requirements for local setup:
-php8
-Composer2 (preferred)
-ddev
+php8  
+Composer2 (preferred)  
+ddev  
 
-//Env variables should be modified within the .env file in root dir
-//All plugins are nested&installed through composer
+//Env variables should be modified within the .env file in root dir  
+//All plugins are nested&installed through composer  
 
 # Running the site locally:
 - Docker needs to be running
